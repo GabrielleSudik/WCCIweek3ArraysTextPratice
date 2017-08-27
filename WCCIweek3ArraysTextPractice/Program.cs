@@ -77,9 +77,42 @@ namespace WCCIweek3ArraysTextPractice
             }
 
             //manipulating an array:
+            //multiply everything by 2, using myArray2, above
 
+            Console.WriteLine("Output: ");
 
+            for (int i = 0; i < myArray2.Length; i++)
+            {
+                Console.WriteLine(myArray2[i] + " ");
+            }
 
+            Console.WriteLine("Output * 2: "); 
+
+            for (int i = 0; i < myArray2.Length; i++)
+            {
+                myArray2[i] = 2 * myArray2[i];
+                Console.WriteLine(myArray2[i] + " ");
+            }
+
+            //now let's square the values:
+
+            Console.WriteLine("Output squared: ");
+
+            for (int i= 0; i < myArray2.Length; i++)
+            {
+                myArray2[i] = myArray2[i] * myArray2[i];
+                Console.WriteLine(myArray2[i] + " ");
+            }
+
+            //iteration with foreach loop: SO EASY
+
+            string[] capitals = { "Sophia", "DC", "London", "Paris" };
+
+            foreach (string capital in capitals)
+                //VS understands that "captial" means each element in capitals
+            {
+                Console.WriteLine(capital);
+            }
 
             Console.ReadLine();
         }

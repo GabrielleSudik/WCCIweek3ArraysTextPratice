@@ -4,3 +4,9 @@ C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3ArraysTextPractice\
 C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3ArraysTextPractice\obj\Debug\WCCIweek3ArraysTextPractice.csprojResolveAssemblyReference.cache
 C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3ArraysTextPractice\obj\Debug\WCCIweek3ArraysTextPractice.exe
 C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3ArraysTextPractice\obj\Debug\WCCIweek3ArraysTextPractice.pdb
+C:\Users\Gabrielle\documents\visual studio 2017\Projects\WCCIweek3ArraysTextPractice\WCCIweek3ArraysTextPractice\bin\Debug\WCCIweek3ArraysTextPractice.exe.config
+C:\Users\Gabrielle\documents\visual studio 2017\Projects\WCCIweek3ArraysTextPractice\WCCIweek3ArraysTextPractice\bin\Debug\WCCIweek3ArraysTextPractice.exe
+C:\Users\Gabrielle\documents\visual studio 2017\Projects\WCCIweek3ArraysTextPractice\WCCIweek3ArraysTextPractice\bin\Debug\WCCIweek3ArraysTextPractice.pdb
+C:\Users\Gabrielle\documents\visual studio 2017\Projects\WCCIweek3ArraysTextPractice\WCCIweek3ArraysTextPractice\obj\Debug\WCCIweek3ArraysTextPractice.csprojResolveAssemblyReference.cache
+C:\Users\Gabrielle\documents\visual studio 2017\Projects\WCCIweek3ArraysTextPractice\WCCIweek3ArraysTextPractice\obj\Debug\WCCIweek3ArraysTextPractice.exe
+C:\Users\Gabrielle\documents\visual studio 2017\Projects\WCCIweek3ArraysTextPractice\WCCIweek3ArraysTextPractice\obj\Debug\WCCIweek3ArraysTextPractice.pdb
